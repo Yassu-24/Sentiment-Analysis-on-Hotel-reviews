@@ -26,7 +26,7 @@ The dataset contains thousands of hotel reviews, each labeled with a sentiment c
 - **Matplotlib/Seaborn** (for visualization)
 
 ## Results
-The model with the highest accuracy was **SVM**, achieving an accuracy of **XX%** on the test set. Detailed performance metrics for each model are provided in the results section.
+The model with the highest accuracy was **SVM**, achieving an accuracy of **96%** on the test set. Detailed performance metrics for each model are provided in the results section.
 
 ## Future Work
 - Implement **Deep Learning** models like LSTM and CNN to improve accuracy.
